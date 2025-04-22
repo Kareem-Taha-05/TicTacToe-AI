@@ -11,8 +11,7 @@ This project helped me understand the importance of recursive algorithms and how
 
 ## Video Demo
 
-Check out the video demo of the project:
+Check out the video demo of the Tic-Tac-Toe AI:
 
-![Video Preview](media/video_thumbnail.jpg)
+[Watch the demo](https://github.com/Kareem-Taha-05/TicTacToe-AI/blob/main/TicTacToe_AI.mp4)
 
-[Watch the demo](media/demo_video.mp4)
