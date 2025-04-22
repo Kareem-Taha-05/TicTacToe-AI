@@ -14,3 +14,17 @@ This project helped me understand the importance of recursive algorithms and how
 Check out the video demo of the Tic-Tac-Toe AI:
 
 [Watch the demo](https://github.com/Kareem-Taha-05/TicTacToe-AI/blob/main/TicTacToe_AI.mp4)
+
+## 🚀 How to Run the Project
+1. Clone the repository or download the ZIP:
+  ```
+  git clone https://github.com/Kareem-Taha-05/TicTacToe-AI.git
+  ```
+2. Navigate to the TicTacToe folder:
+  ```
+  cd TicTacToe-AI/TicTacToe
+  ```
+3. Run the project using Python:
+  ```
+  python runner.py
+  ```
