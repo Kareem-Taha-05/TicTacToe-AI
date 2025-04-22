@@ -8,3 +8,11 @@ This project is part of CS50's Introduction to Artificial Intelligence with Pyth
 - A basic framework for the game, including the board, player functionality, and a partially implemented AI.
 
 This project helped me understand the importance of recursive algorithms and how to make optimal decisions in turn-based games.
+
+## Video Demo
+
+Check out the video demo of the project:
+
+![Video Preview](media/video_thumbnail.jpg)
+
+[Watch the demo](media/demo_video.mp4)
