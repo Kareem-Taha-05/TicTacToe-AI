@@ -9,11 +9,12 @@ This project is part of CS50's Introduction to Artificial Intelligence with Pyth
 
 This project helped me understand the importance of recursive algorithms and how to make optimal decisions in turn-based games.
 
-## Video Demo
+## 🎥 Video Demo
 
-Check out the video demo of the Tic-Tac-Toe AI:
+Check out the demo of the Tic-Tac-Toe AI in action:
 
-[Watch the demo](https://github.com/Kareem-Taha-05/TicTacToe-AI/blob/main/TicTacToe_AI.mp4)
+[![Watch the demo](https://img.youtube.com/vi/PR_-lFqqzgo/0.jpg)](https://youtu.be/PR_-lFqqzgo)
+
 
 ## 🚀 How to Run the Project
 1. Clone the repository or download the ZIP:
